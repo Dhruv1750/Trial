@@ -6,6 +6,9 @@ import java.util.ArrayList;
  *  Execution:    java Multiway input1.txt input2.txt input3.txt ...
  *  Dependencies: IndexMinPQ.java In.java StdOut.java
  * 
+ 
+ 
+    This is my changes done to look how the merging workds
  *  Merges together the sorted input stream given as command-line arguments
  *  into a single sorted output stream on standard output.
  *
